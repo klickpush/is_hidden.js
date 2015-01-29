@@ -18,7 +18,7 @@ for(var i = 0; i < tmp.length; i++){
 ```
 
 ## Credit
-All credit is due to Tokimon on (StackOverflow)[http://stackoverflow.com/a/5354536/579018].  I've just put it together and made a library out of it.
+All credit is due to Tokimon on [StackOverflow](http://stackoverflow.com/a/5354536/579018).  I've just put it together and made a library out of it.
 
 ## Contributing
 Yes!  Please do.  For starters we could increase the meaningfulness of this README 
